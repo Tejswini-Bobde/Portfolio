@@ -24,10 +24,7 @@ function Contact() {
               <span>tejswinibobde2006@gmail.com</span>
             </div>
 
-            <div className="contact-item">
-              <FaPhone />
-              <span>+91 7219481909</span>
-            </div>
+            
 
             <div className="contact-social">
 

@@ -2,7 +2,7 @@ const personalInfo = {
   name: "Tejswini Bobde",
   role: "Full Stack Developer",
   email: "tejswinibobde2006@gmail.com",
-  phone: "+91 7219481909",
+ 
 
   github: "https://github.com/Tejswini-Bobde",
 

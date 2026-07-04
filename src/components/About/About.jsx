@@ -37,17 +37,17 @@ function About() {
           <div className="about-cards">
 
             <div className="card">
-              <h3>270+</h3>
+              <h3>300+</h3>
               <p>DSA Problems</p>
             </div>
 
             <div className="card">
-              <h3>3+</h3>
+              <h3>5+</h3>
               <p>Major Projects</p>
             </div>
 
             <div className="card">
-              <h3>8.98</h3>
+              <h3>9.03</h3>
               <p>CGPA</p>
             </div>
 

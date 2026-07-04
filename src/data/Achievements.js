@@ -5,7 +5,7 @@ const achievements = [
   },
   {
     title: "LeetCode & GFG",
-    subtitle: "Solved 270+ DSA Problems",
+    subtitle: "Solved 300+ DSA Problems",
   },
   {
     title: "Postman",
