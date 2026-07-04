@@ -1,5 +1,5 @@
 import "./Achievements.css";
-import achievements from "../../data/achievements";
+import achievements from "../../data/Achievements";
 import { motion } from "framer-motion";
 
 function Achievements() {
